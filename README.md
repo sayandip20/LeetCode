@@ -1,2 +1,2 @@
 # LeetCode
-This repository contains important questions of leetcode.
+This repository contains solutions to DSA and SQL questions of leetcode.
